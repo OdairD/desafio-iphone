@@ -3,7 +3,7 @@
 Este repositório contém uma implementação detalhada de um desafio de modelagem de software para representar um iPhone, usando princípios de programação orientada a objetos e modelagem UML. O projeto abrange três funcionalidades principais do iPhone: Reprodutor Musical, Aparelho Telefônico e Navegador na Internet. Inclui o código-fonte em Java, documentação completa, insights de design e instruções para executar o código e explorar o diagrama UML associado. Este projeto oferece uma oportunidade de aprender e aplicar melhores práticas de engenharia de software.
 
 
-    This repository contains a detailed implementation of a software modeling challenge to represent an iPhone, using object-oriented programming principles and UML modeling. The project covers three main functionalities of the iPhone: Music Player, Telephone, and Internet Browser. It includes Java source code, comprehensive documentation, design insights, and instructions to run the code and explore the associated UML diagram. This project provides an opportunity to learn and apply best practices in software engineering.
+This repository contains a detailed implementation of a software modeling challenge to represent an iPhone, using object-oriented programming principles and UML modeling. The project covers three main functionalities of the iPhone: Music Player, Telephone, and Internet Browser. It includes Java source code, comprehensive documentation, design insights, and instructions to run the code and explore the associated UML diagram. This project provides an opportunity to learn and apply best practices in software engineering.
 
 ## 📊 Diagrama UML
 
